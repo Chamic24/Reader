@@ -1,4 +1,4 @@
-# changsheng_project_admin
+# project_admin
 
 ## Project setup
 ```
